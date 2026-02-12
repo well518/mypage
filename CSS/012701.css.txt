@@ -1,0 +1,5 @@
+:root{
+    --mycolor01:#cccccc;
+    
+
+}
